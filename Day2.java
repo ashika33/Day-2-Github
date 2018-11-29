@@ -3,7 +3,7 @@ public class Day2{
 
 
 		System.out.println("Ashika");
-
+		System.out.println("Aditya");
 
 
 
